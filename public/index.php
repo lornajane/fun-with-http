@@ -39,4 +39,13 @@ $app->get('/', function ($request, $response, $args) {
     return $response->getBody()->write("Hello World");
 });
 
+$app->get('/talks', function ($request, $response, $args) {
+    $client = new \GuzzleHttp\Client();
+
+    $response = $client->request("GET", "http://api.joind.in");
+    error_log($response->getBody());
+
+    return $response->getBody()->write("OK");
+});
+
 $app->run();
