@@ -6,7 +6,7 @@ This is the companion repository to my "Web Developers' HTTP Toolbox" workshop s
 
 Find the slide deck and exercises in the `workshop/` folder.
 
-## Set up the samle application
+## Set up the sample application
 
 This is a SlimPHP application. To set it up:
 
