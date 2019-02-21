@@ -2,7 +2,7 @@
 
 ## Proxy of your choice
 
-It's the last exercise, pick one of the proxy tools, get it working and use it to inspect traffic (ngrok gives us some of this functionality). Investigate how you would use SSL with this tool.
+It's the last exercise, pick one of the proxy tools, get it working and use it to inspect traffic (ngrok gives us some of this functionality). Investigate how you would use TLS with this tool.
 
 ## Appendix A: Links to proxy tools
 
