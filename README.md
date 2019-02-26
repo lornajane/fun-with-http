@@ -1,6 +1,6 @@
 # Fun with HTTP
 
-This is the companion repository to my "Web Developers' HTTP Toolbox" workshop session at PHP UK 2019. The materials are not intended to stand alone and are likely to be useful only to those in the workshop.
+This is the companion repository to my "Web Developers' HTTP Toolbox" workshop session at PHP UK 2019. The materials are not intended to stand alone and are likely to be useful only to those in the workshop. **EDIT:** I did write a follow up blog post in an attempt to make this more useful to people joining after the event <https://lornajane.net/posts/2019/http-toolbox>
 
 ## Materials
 
